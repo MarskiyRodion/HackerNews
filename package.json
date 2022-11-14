@@ -1,0 +1,13 @@
+{
+  "name": "avito-internship",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "set PORT=3000 && cd./src && serve"
+  },
+  "dependencies": {
+    "localhost": "^0.4.1",
+    "serve": "^14.1.1"
+  }
+}
